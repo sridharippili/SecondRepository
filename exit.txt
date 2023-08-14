@@ -1,0 +1,35 @@
+[33mcommit b6cc11f0fbe2acaed50d9f1014467d1c7abd3f8f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SridharIppili <sridhar.ippili2010@gmail.com>
+Date:   Mon Aug 14 14:58:46 2023 -0400
+
+    space removed from FirstFile.txt
+
+[33mcommit 009d94c03b184b16f8e421762d4b39117089e0c6[m
+Author: SridharIppili <sridhar.ippili2010@gmail.com>
+Date:   Mon Aug 14 14:55:02 2023 -0400
+
+    changes made by SecondRepo_second
+
+[33mcommit fdce2144fc5128bdd1b5c0a277f094c26c42fd9a[m
+Author: SridharIppili <sridhar.ippili2010@gmail.com>
+Date:   Sun Aug 13 22:16:13 2023 -0400
+
+    test
+
+[33mcommit 24f03865b54a9a573ee7b896efa0de9d09b31712[m
+Author: Sridhar <sridhar.ippili2010@gmail.com>
+Date:   Sun Aug 13 15:02:06 2023 -0400
+
+    Update test.txt
+
+[33mcommit f6d4d35e591b9099e6b905cc81ab0e70f0f28393[m
+Author: Sridhar <sridhar.ippili2010@gmail.com>
+Date:   Sun Aug 13 15:00:39 2023 -0400
+
+    Create test.txt
+
+[33mcommit 64477a27ab513720303ce3696e522a79531bdcbe[m
+Author: Sridhar <sridhar.ippili2010@gmail.com>
+Date:   Sun Aug 13 14:50:59 2023 -0400
+
+    Initial commit
