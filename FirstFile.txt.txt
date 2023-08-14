@@ -1,4 +1,4 @@
 my first command
 my second command from secondRepo_second
 my third command from SecondRepo
-Modified in master branch
+Modified in master branch to test git merge from git hub
