@@ -1,2 +1,4 @@
 Hello World.
-Intro to GITHub
+Intro to GitHub
+
+Text added to test merge from github
